@@ -70,7 +70,7 @@ new Vue({
       const postHashes = await Promise.all(hashes);
 
       for(let i = 0; i < postHashes.length; i += 1){
-        caption.push(fetch(`https://gateway.ipfs.io/ipfs/${postHashes[i].text}`)
+        caption.push(fetch(`https://ipfs.io/ipfs/${postHashes[i].text}`)
           .then(res => res.text()));
       }
 

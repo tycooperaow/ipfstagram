@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h2>IPFSnap</h2>
+    <h2>IPFStagram</h2>
     <img src="@/assets/logo.png" width="100px" height="100px"/>
     <Feed/>
   </div>
