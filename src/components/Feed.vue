@@ -168,6 +168,10 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-bottom: 5%;
+  left: 0;
+  margin-left: 3.4rem;
+  float: left;
+  position: fixed;
   width: 500px;
 }
 .upload-load {
@@ -176,10 +180,10 @@ export default {
 }
 .card-feed{
   position: relative;
-  margin-top:100%;
+  right: -10rem;
+  margin-top: 10%;
   bottom: 0;
   align-text: center;
-  margin: auto;
 }
 .margin-xs {
   margin-top: 3%;
@@ -189,5 +193,15 @@ export default {
 }
 .border-style {
   border: 1px solid #ced4da;
+}
+@media screen and (max-width: 600px) {
+  .card-feed{
+    margin-top: 50%;
+    margin: auto;
+  }
+  #upload {
+    position: static;
+    margin: auto;
+  }
 }
 </style>
