@@ -134,10 +134,10 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .feed{
-  display: flex;
-  justify-content: center;
+  display: block;
   color: #2c3e50;
   margin-top: 3%;
+
 }
 .home-load {
   width: 50px;
@@ -151,7 +151,13 @@ export default {
 .card {
   text-align: left;
   width: 500px;
+  float: right;
   margin-bottom: 20px;
+}
+.card-feed{
+  margin-right: 4rem;
+  float: right;
+  position: absolute;
 }
 .home-list{
   padding: 0;
