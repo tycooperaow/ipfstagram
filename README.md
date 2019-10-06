@@ -1,4 +1,4 @@
-# ipfsnap
+# ipfstagram
 ---
 This projects runs off [Vue.js](https://vuejs.org), [Solidity](https://solidity.readthedocs.io/en/v0.5.10/), [Ethereum Virtual Machine](https://etherscan.io) and uses [IPFS](https://ipfs.io) as decentralized storage.
 
