@@ -1,5 +1,8 @@
 # ipfstagram
 ---
+[Video Demo of How this should run](https://www.youtube.com/watch?v=TU6VieLR7ow&t=2s)
+
+---
 This projects runs off [Vue.js](https://vuejs.org), [Solidity](https://solidity.readthedocs.io/en/v0.5.10/), [Ethereum Virtual Machine](https://etherscan.io) and uses [IPFS](https://ipfs.io) as decentralized storage.
 
 ---
