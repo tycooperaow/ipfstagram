@@ -22,6 +22,7 @@ npm install
 ```
 npm run serve
 ```
+**Side note, Make sure if you are running locally you have Ganche set up!**
 
 ### Compiles and minifies for production
 ```
