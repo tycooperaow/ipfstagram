@@ -44,5 +44,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ---
 
-###Join Our Discord!
+### Join Our Discord!
 https://discord.gg/gwR46S7
