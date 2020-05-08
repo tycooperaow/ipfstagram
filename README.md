@@ -1,4 +1,5 @@
-# ipfstagram
+# ipfstagram | Peergram
+
 ---
 [Video demo of how this should run](https://www.youtube.com/watch?v=TU6VieLR7ow&t=2s)
 
